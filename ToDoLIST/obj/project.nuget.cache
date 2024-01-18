@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYXA5iec4HewPxUI/iGo4G/C1q7XYonWESMQiHaXsvYrhZUU0M25PaW/9Gch/JQGn5ReBMJbGl2nGNBZ9mC/RA==",
+  "success": true,
+  "projectFilePath": "/Users/shubhamtaluja/Documents/PersonalProject/todo app/ToDoLIST/ToDoLIST.csproj",
+  "expectedPackageFiles": [
+    "/Users/shubhamtaluja/.nuget/packages/microsoft.data.sqlite/5.0.3/microsoft.data.sqlite.5.0.3.nupkg.sha512",
+    "/Users/shubhamtaluja/.nuget/packages/microsoft.data.sqlite.core/5.0.3/microsoft.data.sqlite.core.5.0.3.nupkg.sha512",
+    "/Users/shubhamtaluja/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "/Users/shubhamtaluja/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "/Users/shubhamtaluja/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "/Users/shubhamtaluja/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.4/sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "/Users/shubhamtaluja/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

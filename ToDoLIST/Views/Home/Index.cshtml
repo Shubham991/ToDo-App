@@ -1,0 +1,29 @@
+﻿@model ToDoViewModel
+
+<div class="row justify-content-center">
+    <div class="col-xl-6 col-lg-8 col-md-8 col-sm-10">
+        <table class="table">
+            <thead>
+                <tr class="table-primary">
+                    <th scope="col">id</th>
+                    <th scope="col">Name</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var t in Model.TodoList)
+                {
+                    <tr>
+                        <th class="todos-column" scope="row">@t.id</th>
+                        <td class="todos-column">@t.Name</td>
+                        <td class="buttons-column">
+                            <input type="submit" class="btn btn-danger" value="Delete" onClick="deleteTodo(@t.id)" />
+                            <input type="submit" class="btn btn-primary" value="Update" onClick="populateForm(@t.id)" />
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
